@@ -27,4 +27,10 @@ Imagine walking past a digital billboard or a captivating ad banner. How often d
 - **Improve Ad Placement**: Help businesses determine the most effective locations for their advertisements.
 - **User-Friendly Interface**: Ensure ease of use with an intuitive interface and detailed analytics.
 
+## 🖼️ Example
+
+![Example of Ad View Detection](example.png)
+
+*Caption: The system detecting and measuring the duration of a person's gaze at the advertisement.*
+
 Thank you for your interest in the **Ad View Detection Project**! We are excited to bring this technology to life and revolutionize how we measure advertisement engagement. 📊✨
